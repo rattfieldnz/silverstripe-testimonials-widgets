@@ -18,10 +18,5 @@
     ],
     "extra" : {
         "installer-name": "widgets_testimonials"
-    },
-    "autoload": {
-        "psr-4": {
-            "RattfieldNZ\\TestimonialsWidget\\": "src/"
-        }
     }
 }
