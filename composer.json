@@ -1,7 +1,7 @@
 {
     "name": "rattfieldnz/silverstripe-testimonials-widgets",
     "description": "A set of widgets for displaying single and multiple testimonials.",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "type": "silverstripe-module",
     "homepage": "http://github.com/rattfieldnz/silverstripe-testimonials-widgets",
     "keywords" : ["silverstripe", "testimonials", "widget"],
@@ -9,9 +9,6 @@
         "silverstripe/framework": "*",
         "silverstripe/cms": "*", 
 	"rattfieldnz/silverstripe-testimonials": "*"
-    },
-    "require-dev": {
-        "friendsofphp/php-cs-fixer": "*"
     },
     "license": "BSD-2-Clause",
     "authors": [

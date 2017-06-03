@@ -1,7 +1,7 @@
 <?php
 
-class TestimonialWidgetPageExtension extends DataExtension {
-
+class TestimonialWidgetPageExtension extends DataExtension
+{
     private static $many_many = array(
         'Widgets' => 'Widget'
     );
