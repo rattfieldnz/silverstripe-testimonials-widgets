@@ -1,6 +1,7 @@
 {
     "name": "rattfieldnz/silverstripe-testimonials-widgets",
     "description": "A set of widgets for displaying single and multiple testimonials.",
+    "version": "1.0.1",
     "type": "silverstripe-module",
 	"homepage": "http://github.com/rattfieldnz/silverstripe-testimonials-widgets",
     "keywords" : ["silverstripe", "testimonials", "widget"],
@@ -16,6 +17,10 @@
             "email": "emailme@robertattfield.com"
         }
     ],
+    "support": {
+        "issues": "http://github.com/rattfieldnz/silverstripe-testimonials-widgets/issues"
+    },
+    "minimum-stability": "dev",
     "extra" : {
         "installer-name": "widgets_testimonials"
     }
