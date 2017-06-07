@@ -1,6 +1,6 @@
 <div class="row">
 	<div>
-		<h2><a href="\testimonials" title="Testimonials" alt="Testimonials">Testimonials</a></h2>
+		<h2><a href="/testimonials" title="Testimonials" alt="Testimonials">Testimonials</a></h2>
 		
 		<div class="row">
 		    <% loop Testimonials %>
