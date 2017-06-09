@@ -8,7 +8,7 @@
     "require": {
         "silverstripe/framework": "*",
         "silverstripe/cms": "*", 
-	"rattfieldnz/silverstripe-testimonials": "4.0"
+	"rattfieldnz/silverstripe-testimonials": "4.*"
     },
     "license": "BSD-2-Clause",
     "authors": [
